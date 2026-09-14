@@ -180,7 +180,7 @@ function Index() {
           <div className="lg:col-span-5 fadein" style={{ animationDelay: ".2s" }}>
             <img
               src={portrait}
-              alt="Soft folded paper composition in neutral light"
+              alt="Portrait of Muhammad Ahmad"
               width={1024}
               height={1280}
               className="w-full max-w-sm mx-auto lg:mx-0 aspect-[4/5] object-cover rounded-2xl outline-1 -outline-offset-1 outline-black/5"
